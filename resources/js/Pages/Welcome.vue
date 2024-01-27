@@ -76,7 +76,7 @@ defineProps({
                 </div>
                 <!-- Categories bar -->
                 <!-- 2xl:bg-white -->
-                <div class="w-[30%] hidden xl:block bg-gray-500">
+                <div class="w-[30%] hidden xl:block bg-gray-100">
                     <!-- 2xl:bg-gray-50 -->
                     <div class="2xl:w-[80%] pt-20 2xl:px-4 w-[90%] mx-auto h-full">
                         <!-- Search Input -->
